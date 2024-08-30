@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="text_view">text view</string>
+    <string name='back'>back</string>
+</resources>
